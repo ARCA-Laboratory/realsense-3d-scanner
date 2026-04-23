@@ -3,3 +3,4 @@ output/models/
 __pycache__/
 *.pyc
 .claude/
+*.code-workspace
