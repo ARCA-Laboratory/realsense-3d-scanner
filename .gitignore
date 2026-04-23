@@ -1,0 +1,5 @@
+output/frames/
+output/models/
+__pycache__/
+*.pyc
+.claude/
